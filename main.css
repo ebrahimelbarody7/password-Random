@@ -3,11 +3,11 @@
 }
 body{
     font-family: Tahoma,Arial;
-    background-image: url(../PasswordRandom/pexels-aarti-vijay-2693529.jpg);
+    background-image: url(pexels-aarti-vijay-2693529.jpg);
     background-size: cover;
     background-position: center;
     /* background-size: 100px; */
-    height:calc((100vh - 100px)) ;
+    height:calc((100vh - 20px)) ;
     z-index: -2;
     width: 95%;
     
